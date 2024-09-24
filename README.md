@@ -1,4 +1,5 @@
 # Hola, soy Jose Manuel Bejarano Arroyo 
+Soy un estudiante de **Sistema Microinformatico y Redes** ***(SMR)*** que le gusta la informatica y todo lo relacionado con ella, en un futuro me gustaria trabajar como progaramador en alguna empresa importante
 ## Hi there 👋
 ### prueba
 text
