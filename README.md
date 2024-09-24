@@ -6,17 +6,17 @@
   - ✏ Me gusta aprender e informatme sobre este mundillo lleno de tecnologias.
   - 👾 Me gustan mucho los videojuegos y la animacion 3D.
 ## ***🏆 Mis Habilidades***
-  **· Hardware:** Montaje y matenimiento de equipo.
-  **· Redes:** Configurar redes locales.**
-  **· Seguridad:** Firewall basico.**
-  **· Sistemas operativos:** Linux y Windows
+  - **Hardware:** Montaje y matenimiento de equipo.
+  - **Redes:** Configurar redes locales.
+  - **Seguridad:** Firewall basico.
+  - **Sistemas operativos:** Linux y Windows
 ## ***⚙ MIs herramientas***
-  **🛠️ VirtualBox - Para virtualizar**
-  **🖥️ VSCode - Editro de codigo**
-  **🐧 Bash/Shell - Automatizar en linux**
-  **🔒 Wireshark - Analizar flujo de red**
+  - **🛠️ VirtualBox** - Para virtualizar
+  - **🖥️ VSCode** - Editro de codigo
+  - **🐧 Bash/Shell** - Automatizar en linux
+  - **🔒 Wireshark** - Analizar flujo de red
 ## ***🎯 Mis objetivos***
-  · Mejor mis conocimiento sobre **ciberseguridad**.
-  · Mejor mis conocimientos sobres redes **locales**
+  - Mejor mis conocimiento sobre **ciberseguridad**.
+  - Mejor mis conocimientos sobres redes **locales**
 ## ***📬 Contacto***
- **· Gmail:** bejarano.arroyo.jose.manuel@iescamas.es
+  - **Gmail:** bejarano.arroyo.jose.manuel@iescamas.es
