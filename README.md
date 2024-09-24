@@ -1,6 +1,10 @@
 # Hola, soy Jose Manuel Bejarano Arroyo 
 ## Hi there 👋
 ### prueba
+text
+**text**
+
+
 <!--
 **JMBA-2005/JMBA-2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
