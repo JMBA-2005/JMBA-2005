@@ -2,7 +2,7 @@
   Soy un estudiante de **Sistema Microinformatico y Redes** ***(SMR)*** que le gusta la informatica y todo lo relacionado con ella, en un futuro me gustaria trabajar como progaramador en     alguna empresa importante
 
 ## ***😎 Sobre mi***
-  **· 🖥 Aficionado a la programacion.**
+  **- 🖥 Aficionado a la programacion.**
   **· ✏ Me gusta aprender e informatme sobre este mundillo lleno de tecnologias.** 
   **· 👾 Me gustan mucho los videojuegos y la animacion 3D.**
 ## ***🏆 Mis Habilidades***
