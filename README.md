@@ -1,22 +1,22 @@
 # Hola, soy Jose Manuel Bejarano Arroyo 
-Soy un estudiante de **Sistema Microinformatico y Redes** ***(SMR)*** que le gusta la informatica y todo lo relacionado con ella, en un futuro me gustaria trabajar como progaramador en alguna empresa importante
-## Hi there 👋
-### prueba
-text
-**text**
+  Soy un estudiante de **Sistema Microinformatico y Redes** ***(SMR)*** que le gusta la informatica y todo lo relacionado con ella, en un futuro me gustaria trabajar como progaramador en     alguna empresa importante
 
-
-<!--
-**JMBA-2005/JMBA-2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ***😎 Sobre mi***
+  **· 🖥 Aficionado a la programacion.**
+  **· ✏ Me gusta aprender e informatme sobre este mundillo lleno de tecnologias.** 
+  **· 👾 Me gustan mucho los videojuegos y la animacion 3D.**
+## ***🏆 Mis Habilidades***
+  **· Hardware:** Montaje y matenimiento de equipo.
+  **· Redes:** Configurar redes locales.**
+  **· Seguridad:** Firewall basico.**
+  **· Sistemas operativos:** Linux y Windows
+## ***⚙ MIs herramientas***
+  **🛠️ VirtualBox - Para virtualizar**
+  **🖥️ VSCode - Editro de codigo**
+  **🐧 Bash/Shell - Automatizar en linux**
+  **🔒 Wireshark - Analizar flujo de red**
+## ***🎯 Mis objetivos***
+  · Mejor mis conocimiento sobre **ciberseguridad**.
+  · Mejor mis conocimientos sobres redes **locales**
+## ***📬 Contacto***
+ **· Gmail:** bejarano.arroyo.jose.manuel@iescamas.es
