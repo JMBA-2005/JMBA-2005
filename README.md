@@ -10,7 +10,7 @@
   - **Redes:** Configurar redes locales.
   - **Seguridad:** Firewall basico.
   - **Sistemas operativos:** Linux y Windows
-## ***⚙ MIs herramientas***
+## ***⚙ Mis herramientas***
   - **🛠️ VirtualBox** - Para virtualizar
   - **🖥️ VSCode** - Editro de codigo
   - **🐧 Bash/Shell** - Automatizar en linux
