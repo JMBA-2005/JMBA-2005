@@ -3,8 +3,8 @@
 
 ## ***😎 Sobre mi***
   **- 🖥 Aficionado a la programacion.**
-  **· ✏ Me gusta aprender e informatme sobre este mundillo lleno de tecnologias.** 
-  **· 👾 Me gustan mucho los videojuegos y la animacion 3D.**
+  **- ✏ Me gusta aprender e informatme sobre este mundillo lleno de tecnologias.** 
+  **- 👾 Me gustan mucho los videojuegos y la animacion 3D.**
 ## ***🏆 Mis Habilidades***
   **· Hardware:** Montaje y matenimiento de equipo.
   **· Redes:** Configurar redes locales.**
